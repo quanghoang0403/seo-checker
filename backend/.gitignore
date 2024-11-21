@@ -1,0 +1,62 @@
+# .NET Core specific
+bin/
+obj/
+*.dll
+*.pdb
+*.exe
+*.app
+*.dylib
+*.so
+*.class
+
+# Build directories
+out/
+artifacts/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.rsps
+
+# Logs
+*.log
+logs/
+debug.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# macOS specific
+.DS_Store
+
+# Environment variables
+.env
+.env.*
+
+# Dependency directories
+node_modules/
+packages/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.swp
+*~

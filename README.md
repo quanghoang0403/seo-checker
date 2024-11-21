@@ -11,4 +11,4 @@ The `SEO Checker` is a .NET Core + ReactJS application to automate daily SEO mon
 
 
 ![alt text](/assets/image.png)
-![alt text](image.png)
+![alt text](/assets/image2.png)
